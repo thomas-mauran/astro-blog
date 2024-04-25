@@ -1,6 +1,6 @@
 ---
-title: Example Category
-description: A description of this category
+title: Astronomy
+description: Astronomy and astrophotography related posts.
 image:
 
 # Badge style
