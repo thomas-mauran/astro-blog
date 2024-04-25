@@ -1,6 +1,6 @@
 ---
-title: Current setup
-description: My current astrophoto setup
+title: Current rig
+description: My current astrophoto rig
 date: 2024-04-22 00:09:30+0000
 image: scope.JPG
 categories:
@@ -47,6 +47,8 @@ Using this upgrade I managed to capture the Orion nebulae with my DSLR camera. H
 
 ![Orion nebulae with the mirror upgrade](orion-2.png)
 
+the full post is available [here](https://astro.thomas-mauran.com/p/orion-nebulae-10-04-2024/)
+
 
 ## New Goto mount
 
@@ -56,9 +58,13 @@ I managed to get a second hand Celestron cg-5 goto mount- for 400 euros which is
 
 The goto systems works by aligning the mount with the sky. The mount has to be aligned with 3 stars. The mount then knows where it is pointing in the sky. The mount can then move to any object in the sky. This is very useful for deep sky objects since they are very hard to find.
 
+![Current rig](scope.JPG)
+
 I tried to shoot Messier 51 with this new cg5 and got this shot which is a pretty good start overall !
 
 ![Messier 51 - 1h exposition time](m51.png)
+
+the full post is available [here](https://astro.thomas-mauran.com/p/messier-51-24-04-2024/)
 
 ## Next steps 
 

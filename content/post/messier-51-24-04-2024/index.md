@@ -1,5 +1,5 @@
 ---
-title: Messier 51
+title: Messier 51 - 24-04-2024
 description: Messier 51 picture
 date: 2024-04-24 00:20:30+0000
 image: m51.png
