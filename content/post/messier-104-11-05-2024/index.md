@@ -34,3 +34,7 @@ Messier 104 (M104), also known as the Sombrero Galaxy, is a spiral galaxy in the
 # Comments
 
 Very happy with this image, I managed to get a great polar alignement and could go up to 25s exposures. The image is very clean and I managed to get a lot of details in the dust lane. The 4000 iso allowed me to get less noise than the previous images. 
+
+# Video
+
+{{< youtube MNict3jBCzo >}}
