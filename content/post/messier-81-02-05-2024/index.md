@@ -30,6 +30,8 @@ M82 got this shape because of the gravitational interaction with M81. The gravit
 
 🌌 ISO: 6400
 
+🌇 Bortle: 7
+
 🖥 Processing: DeepSkyStacker, Siril, Photoshop
 
 # Comments

@@ -28,6 +28,8 @@ Messier 51 (M51), also known as the Whirlpool Galaxy, is a grand-design spiral g
 
 🌌 ISO: 4000 - 6400
 
+🌇 Bortle: 7
+
 🖥 Processing: DeepSkyStacker, Siril, Photoshop
 
 # Comments

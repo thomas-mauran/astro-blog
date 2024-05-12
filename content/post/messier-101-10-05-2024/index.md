@@ -28,6 +28,8 @@ Messier 101 is a spiral galaxy in the constellation Ursa Major. It was discovere
 
 🌌 ISO: 6400
 
+🌇 Bortle: 7
+
 🖥 Processing: DeepSkyStacker, Siril, Photoshop
 
 # Comments
