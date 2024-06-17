@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Nebulae on Astro blog</title><link>https://astro.thomas-mauran.com/tags/nebulae/</link><description>Recent content in Nebulae on Astro blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 22 Apr 2024 00:09:30 +0000</lastBuildDate><atom:link href="https://astro.thomas-mauran.com/tags/nebulae/index.xml" rel="self" type="application/rss+xml"/><item><title>Current rig</title><link>https://astro.thomas-mauran.com/p/current-rig/</link><pubDate>Mon, 22 Apr 2024 00:09:30 +0000</pubDate><guid>https://astro.thomas-mauran.com/p/current-rig/</guid><description>&lt;img src="https://astro.thomas-mauran.com/p/current-rig/scope.JPG" alt="Featured image of post Current rig" />&lt;p>Here is my current setup, I have been trying to limit the budget as much as possible. This low budget allows me to learn a lot more and do some DIY customizations.&lt;/p>
+&lt;h2 id="original-mount">Original mount
+&lt;/h2>&lt;p>The base scope is an old Paralux 114/900 scope, it is a Newtonian reflector with a 114mm aperture and 900mm focal length. The original mount was a wooden equatorial mount with a clock drive. This setup is 40 years old since it was my father&amp;rsquo;s scope when he was a kid.&lt;/p>
+&lt;p>&lt;img src="https://astro.thomas-mauran.com/p/current-rig/original.jpg"
+width="4032"
+height="3024"
+srcset="https://astro.thomas-mauran.com/p/current-rig/original_huc382f91bece28446bffe82cbd93ec4c3_1823678_480x0_resize_q75_box.jpg 480w, https://astro.thomas-mauran.com/p/current-rig/original_huc382f91bece28446bffe82cbd93ec4c3_1823678_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="Here is a picture of the original setup"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;p>The main problem with this mount was the fact I couldn&amp;rsquo;t use a DSLR camera with it. The scope would not focus on the camera sensor. I started to take pictures using my phone and a phone adapter. The results were not great but it was a start.&lt;/p>
+&lt;p>&lt;img src="https://astro.thomas-mauran.com/p/current-rig/moon-first-try.jpg"
+width="1781"
+height="2374"
+srcset="https://astro.thomas-mauran.com/p/current-rig/moon-first-try_hu6a703b5ac66ef491f7168be860829d5f_225286_480x0_resize_q75_box.jpg 480w, https://astro.thomas-mauran.com/p/current-rig/moon-first-try_hu6a703b5ac66ef491f7168be860829d5f_225286_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="Moon using an iphone"
+class="gallery-image"
+data-flex-grow="75"
+data-flex-basis="180px"
+> &lt;img src="https://astro.thomas-mauran.com/p/current-rig/orion-first-try.jpg"
+width="721"
+height="755"
+srcset="https://astro.thomas-mauran.com/p/current-rig/orion-first-try_hu5df0512c42f425432287932b27bb49b6_133760_480x0_resize_q75_box.jpg 480w, https://astro.thomas-mauran.com/p/current-rig/orion-first-try_hu5df0512c42f425432287932b27bb49b6_133760_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="Orion using an iphone"
+class="gallery-image"
+data-flex-grow="95"
+data-flex-basis="229px"
+>&lt;/p>
+&lt;h2 id="primary-mirror-upgrade">Primary mirror upgrade
+&lt;/h2>&lt;p>To achieve the focus with a DSLR camera I had to move the primary mirror up the tube. But first let&amp;rsquo;s see how a newtonian scope works.&lt;/p>
+&lt;p>&lt;img src="https://astro.thomas-mauran.com/p/current-rig/newtonian.jpg"
+width="1203"
+height="478"
+srcset="https://astro.thomas-mauran.com/p/current-rig/newtonian_hu3db142a9ad90a35d79619b3836dbf52d_59429_480x0_resize_q75_box.jpg 480w, https://astro.thomas-mauran.com/p/current-rig/newtonian_hu3db142a9ad90a35d79619b3836dbf52d_59429_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="Schema of a newtonian telescope"
+class="gallery-image"
+data-flex-grow="251"
+data-flex-basis="604px"
+>&lt;/p>
+&lt;p>The principle is simple, the light enters the tube and is reflected by the primary mirror to the secondary mirror. The secondary mirror reflects the light to the eyepiece. The eyepiece is placed at the focal point of the primary mirror. The distance between the primary mirror and the eyepiece is the focal length of the scope.&lt;/p>
+&lt;p>This type of scope have been invented by Isaac Newton in 1668. The main advantage of this design is the fact that the light is reflected only once. This means that the light is not absorbed by the tube walls. This is why this type of scope is very good for deep sky objects.&lt;/p>
+&lt;p>Adding a DSLR to the setup means that the camera sensor has to be at the focal point of the primary mirror. Camera sensors are at the back of the camera body. This means that the primary mirror has to be moved up the tube to bring back the focus point on the camera sensor.&lt;/p>
+&lt;p>Another option was to use a Barlow lens to increase the focal length of the scope. This would have allowed me to use the camera without moving the primary mirror. But this would have increased the focal length of the scope to 1800mm. This would have made the scope less versatile and would have required a more precise tracking. It would also have lower the field of view of the camera and the light gathering power of the scope which is not ideal for deep sky objects.&lt;/p>
+&lt;p>To move the primary mirror I had to self design a custom piece using Blender. After a few iterations I came up with a design that would allow me to move the primary mirror up the tube by roughly 6 centimeters. This would allow me to focus on the camera sensor.&lt;/p>
+&lt;p>&lt;img src="https://astro.thomas-mauran.com/p/current-rig/3d-piece.jpg"
+width="4032"
+height="3024"
+srcset="https://astro.thomas-mauran.com/p/current-rig/3d-piece_hu6c8e010759c147ae863b48b7a6f32073_2814050_480x0_resize_q75_box.jpg 480w, https://astro.thomas-mauran.com/p/current-rig/3d-piece_hu6c8e010759c147ae863b48b7a6f32073_2814050_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="3d piece fully printed"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+> &lt;img src="https://astro.thomas-mauran.com/p/current-rig/3d-piece-2.jpg"
+width="3419"
+height="3024"
+srcset="https://astro.thomas-mauran.com/p/current-rig/3d-piece-2_hue59fc16d85569255b7e1a53e7d3e2427_2420462_480x0_resize_q75_box.jpg 480w, https://astro.thomas-mauran.com/p/current-rig/3d-piece-2_hue59fc16d85569255b7e1a53e7d3e2427_2420462_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="3d piece mounted on the scope bottom"
+class="gallery-image"
+data-flex-grow="113"
+data-flex-basis="271px"
+>&lt;/p>
+&lt;p>Using this upgrade I managed to capture the Orion nebulae with my DSLR camera. Here is the best image I managed to get after acquiring data on multiple nights.&lt;/p>
+&lt;p>&lt;img src="https://astro.thomas-mauran.com/p/current-rig/orion-2.PNG"
+width="3448"
+height="2803"
+srcset="https://astro.thomas-mauran.com/p/current-rig/orion-2_hu06dae57670289a1294b3b8338d0de06c_14184144_480x0_resize_box_3.PNG 480w, https://astro.thomas-mauran.com/p/current-rig/orion-2_hu06dae57670289a1294b3b8338d0de06c_14184144_1024x0_resize_box_3.PNG 1024w"
+loading="lazy"
+alt="Orion nebulae with the mirror upgrade"
+class="gallery-image"
+data-flex-grow="123"
+data-flex-basis="295px"
+>&lt;/p>
+&lt;p>the full post is available &lt;a class="link" href="https://astro.thomas-mauran.com/p/orion-nebulae-10-04-2024/" target="_blank" rel="noopener"
+>here&lt;/a>&lt;/p>
+&lt;h2 id="new-goto-mount">New Goto mount
+&lt;/h2>&lt;p>The next step was to upgrade the mount. The old mount was not very stable and the clock drive was not very precise. I tried multiple times to find Messier 51 but never managed to get it, living in a bortle 6-7 zone doesn&amp;rsquo;t help either.&lt;/p>
+&lt;p>I managed to get a second hand Celestron cg-5 goto mount- for 400 euros which is a great deal ! This mount is a lot more stable and precise. It also has a goto system that allows me to find objects in the sky. This is a game changer for me since I can now find objects in the sky without having to spend hours looking for them.&lt;/p>
+&lt;p>The goto systems works by aligning the mount with the sky. The mount has to be aligned with 3 stars. The mount then knows where it is pointing in the sky. The mount can then move to any object in the sky. This is very useful for deep sky objects since they are very hard to find.&lt;/p>
+&lt;p>&lt;img src="https://astro.thomas-mauran.com/p/current-rig/scope.JPG"
+width="3024"
+height="4032"
+srcset="https://astro.thomas-mauran.com/p/current-rig/scope_hube0f0bb743f44f25a36c53ced8e53222_3784226_480x0_resize_q75_box.JPG 480w, https://astro.thomas-mauran.com/p/current-rig/scope_hube0f0bb743f44f25a36c53ced8e53222_3784226_1024x0_resize_q75_box.JPG 1024w"
+loading="lazy"
+alt="Current rig"
+class="gallery-image"
+data-flex-grow="75"
+data-flex-basis="180px"
+>&lt;/p>
+&lt;p>I tried to shoot Messier 51 with this new cg5 and got this shot which is a pretty good start overall !&lt;/p>
+&lt;p>&lt;img src="https://astro.thomas-mauran.com/p/current-rig/m51.png"
+width="1141"
+height="806"
+srcset="https://astro.thomas-mauran.com/p/current-rig/m51_hu17de6a214d6005d2504b789ae4dd4ec1_2197474_480x0_resize_box_3.png 480w, https://astro.thomas-mauran.com/p/current-rig/m51_hu17de6a214d6005d2504b789ae4dd4ec1_2197474_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Messier 51 - 1h exposition time"
+class="gallery-image"
+data-flex-grow="141"
+data-flex-basis="339px"
+>&lt;/p>
+&lt;p>the full post is available &lt;a class="link" href="https://astro.thomas-mauran.com/p/messier-51-24-04-2024/" target="_blank" rel="noopener"
+>here&lt;/a>&lt;/p>
+&lt;h2 id="next-steps">Next steps
+&lt;/h2>&lt;p>The next step is to get more experience with the mount and especially a betterpolar alignement. Right now star trails don&amp;rsquo;t let me go further than 15&amp;quot;, I will have to improve this to get longer exposures. I also plan to get a guiding scope in the future to get even longer exposures up to 300&amp;quot; which seems to be the sweet spot for deep sky objects. Guiding scopes are used to correct the mount tracking in real time by locking a star in the field. This is very useful for long exposures since the mount is not perfect and will drift over time.&lt;/p></description></item><item><title>Orion nebulae - 10-04-2024</title><link>https://astro.thomas-mauran.com/p/orion-nebulae-10-04-2024/</link><pubDate>Wed, 10 Apr 2024 00:19:30 +0000</pubDate><guid>https://astro.thomas-mauran.com/p/orion-nebulae-10-04-2024/</guid><description>&lt;img src="https://astro.thomas-mauran.com/p/orion-nebulae-10-04-2024/orion.PNG" alt="Featured image of post Orion nebulae - 10-04-2024" />&lt;p>&lt;img src="https://astro.thomas-mauran.com/p/orion-nebulae-10-04-2024/orion.PNG"
+width="3448"
+height="2803"
+srcset="https://astro.thomas-mauran.com/p/orion-nebulae-10-04-2024/orion_hu06dae57670289a1294b3b8338d0de06c_14184144_480x0_resize_box_3.PNG 480w, https://astro.thomas-mauran.com/p/orion-nebulae-10-04-2024/orion_hu06dae57670289a1294b3b8338d0de06c_14184144_1024x0_resize_box_3.PNG 1024w"
+loading="lazy"
+alt="Orion nebulae"
+class="gallery-image"
+data-flex-grow="123"
+data-flex-basis="295px"
+>&lt;/p>
+&lt;h1 id="informations">Informations
+&lt;/h1>&lt;p>The Orion nebulae is a diffuse nebulae situated in the Milky Way, being south of Orion&amp;rsquo;s Belt in the constellation of Orion. It is one of the brightest nebulae, and is visible to the naked eye in the night sky. M42 is located at a distance of 1,344 ± 20 light years and is the closest region of massive star formation to Earth. The M42 nebulae is estimated to be 24 light years across. It has a mass of about 2000 times the mass of the Sun. Older texts frequently refer to the Orion Nebula as the Great Nebula in Orion or the Great Orion Nebula.&lt;/p>
+&lt;h1 id="photo-details">Photo details
+&lt;/h1>&lt;p>📷 Camera: Nikon D7100&lt;/p>
+&lt;p>🔭 Scope: Paralux 114/900&lt;/p>
+&lt;p>⚙️ Mount: Wooden equatorial mount&lt;/p>
+&lt;p>⏱ Exposure: 30s x 100&lt;/p>
+&lt;p>🌌 ISO: 800 - 1600&lt;/p>
+&lt;p>🖥 Processing: DeepSkyStacker, Siril, Photoshop&lt;/p></description></item></channel></rss>
