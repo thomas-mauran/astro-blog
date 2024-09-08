@@ -1,37 +1,42 @@
 ---
-title: Needle galaxy (NGC 4565) - 24-04-2024
-description: Needle galaxy (NGC 4565) picture
-date: 2024-06-05 00:20:30+0000
-image: needle.png
+title: Dumbell nebula (M27) - 09-06-2024
+description: Dumbell nebula (M27) picture
+date: 2024-06-09 00:20:30+0000
+image: m27.jpg
 categories:
     - Astrophotography
 tags:
-    - Galaxy
+    - Nebulae
 ---
 
-![Needle galaxy (NGC 4565)](needle.png)
+![m27 picture](m27.jpg)
 
 # Informations
 
-The Needle Galaxy (NGC 4565) is an edge-on spiral galaxy about 30 to 50 million light-years away in the constellation Coma Berenices. It is known as the Needle Galaxy for its narrow profile. It is one of the brightest galaxies in the Coma I Group, and one of the most famous edge-on galaxies.
+The Dumbbell Nebula (also known as Apple Core Nebula, Messier 27, M 27, or NGC 6853) is a planetary nebula in the constellation Vulpecula, at a distance of about 1,360 light-years. This object was the first planetary nebula to be discovered; by Charles Messier in 1764. At its brightness of visual magnitude 7.5 and its diameter of about 8 arcminutes, it is easily visible in binoculars, and a popular observing target in amateur telescopes.
 
+Planetary nebulae represent the final brief stage in the life of a medium-sized star like our Sun. While consuming the last of the fuel in its core, the star expels a large portion of its outer envelope. This material then becomes heated by the radiation from the stellar remnant and radiates, producing glowing clouds of gas that can show complex structures, as the eponymous dumbbell shape of M 27 shows.
 
 # Photo details
 
-📷 Camera: Nikon D7100
+📷 Camera: ZWO ASI 585mc pro
 
-🔭 Scope: Paralux 114/900
+🔭 Scope: Quattro 150p
 
 ⚙️ Mount: Celestrong cg-5 goto
 
-⏱ Exposure: 180s x 30
+⏱ Exposure: 30s x 30
 
-🌌 ISO: 800
+🌌 ISO: 200
 
 🌇 Bortle: 7
 
-🖥 Processing: DeepSkyStacker, Siril
+🖥 Processing: DeepSkyStacker, Siril, Starnet ++
 
 # Comments
 
-I didn't manage to get much of a good image, I like the old retro look it got, looking it was taken in the 80s. I learned how to fix the walking noise using dithering and I collimated my telescope.
+This is my first light with my brand new quattro 150p and my new ZWO camera and I am so happy with the result.
+In only 15 minutes I was able to capture my best picture yet showcasing beautiful colors and details of the nebula. I can't wait to see what I can do with more time and experience. 
+
+We see that the picture is still blurry and got some noise but this is a matter of time and experience.
+```
