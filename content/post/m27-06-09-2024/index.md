@@ -1,7 +1,7 @@
 ---
-title: Dumbell nebula (M27) - 09-06-2024
+title: Dumbell nebula (M27) - 06-09-2024
 description: Dumbell nebula (M27) picture
-date: 2024-06-09 00:20:30+0000
+date: 2024-09-06 00:20:30+0000
 image: m27.jpg
 categories:
     - Astrophotography
@@ -39,4 +39,3 @@ This is my first light with my brand new quattro 150p and my new ZWO camera and 
 In only 15 minutes I was able to capture my best picture yet showcasing beautiful colors and details of the nebula. I can't wait to see what I can do with more time and experience. 
 
 We see that the picture is still blurry and got some noise but this is a matter of time and experience.
-```
