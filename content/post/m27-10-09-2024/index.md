@@ -1,5 +1,5 @@
 ---
-title: Dumbell nebula (M27) - 
+title: Dumbell nebula (M27) - 10-09-2024
 description: Dumbell nebula (M27) picture
 date: 2024-09-10 00:20:31+0000
 image: m27-2.jpg
