@@ -19,6 +19,10 @@ The outer shell of the Crescent Nebula is about 25 light-years across and is exp
 
 This nebula basically is a dying star that is shedding its outer envelope in a strong stellar wind. In the end it will explode in a supernova.
 
+Here is another processing of the crescent nebula with a different color balance:
+
+![crescent picture](crescent.png)
+
 # Photo details
 
 📷 Camera: ZWO ASI 585mc pro

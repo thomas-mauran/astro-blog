@@ -2,14 +2,14 @@
 title: Dumbell nebula (M27) - 10-09-2024
 description: Dumbell nebula (M27) picture
 date: 2024-09-10 00:20:31+0000
-image: m27-2.jpg
+image: m27-0.png
 categories:
     - Astrophotography
 tags:
     - Nebulae
 ---
 
-![m27 picture](m27-2.jpg)
+![m27 picture](m27-0.png)
 
 # Informations
 
@@ -19,7 +19,11 @@ This is my second attempt at the Dumbbell Nebula, I wanted to try to get a bette
 
 Here is a side to side comparison of the two pictures:
 
-![Old M27 picture](m27.jpg) ![New one](m27-2.jpg)
+![Old M27 picture](m27.jpg) ![New one](m27-0.png)
+
+Here is also another processing of m27 with a different color balance:
+
+![m27 picture](m27-2.jpg)
 
 # Photo details
 
