@@ -22,6 +22,8 @@ Messier 51 (M51), also known as the Whirlpool Galaxy, is a grand-design spiral g
 
 🔭 Scope: Paralux 114/900
 
+🎯 Guiding: ZWO ASI 120mm mini monochrome + SVBONY SV106 guidescope
+
 ⚙️ Mount: Celestrong cg-5 goto
 
 ⏱ Exposure: 15s x 150

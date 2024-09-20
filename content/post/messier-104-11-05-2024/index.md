@@ -21,6 +21,8 @@ Messier 104 (M104), also known as the Sombrero Galaxy, is a spiral galaxy in the
 
 🔭 Scope: Paralux 114/900
 
+🎯 Guiding: ZWO ASI 120mm mini monochrome + SVBONY SV106 guidescope
+
 ⚙️ Mount: Celestrong cg-5 goto
 
 ⏱ Exposure: 25s x 168

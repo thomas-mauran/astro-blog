@@ -22,6 +22,8 @@ Messier 101 is a spiral galaxy in the constellation Ursa Major. It was discovere
 
 🔭 Scope: Paralux 114/900
 
+🎯 Guiding: ZWO ASI 120mm mini monochrome + SVBONY SV106 guidescope
+
 ⚙️ Mount: Celestrong cg-5 goto
 
 ⏱ Exposure: 20s x 50

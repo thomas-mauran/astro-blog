@@ -23,6 +23,8 @@ Planetary nebulae represent the final brief stage in the life of a medium-sized 
 
 🔭 Scope: Quattro 150p
 
+🎯 Guiding: ZWO ASI 120mm mini monochrome + SVBONY SV106 guidescope
+
 ⚙️ Mount: Celestrong cg-5 goto
 
 ⏱ Exposure: 30s x 30

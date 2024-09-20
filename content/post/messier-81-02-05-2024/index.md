@@ -24,6 +24,8 @@ M82 got this shape because of the gravitational interaction with M81. The gravit
 
 🔭 Scope: Paralux 114/900
 
+🎯 Guiding: ZWO ASI 120mm mini monochrome + SVBONY SV106 guidescope
+
 ⚙️ Mount: Celestrong cg-5 goto
 
 ⏱ Exposure: 10s x 300

@@ -22,6 +22,8 @@ The Needle Galaxy (NGC 4565) is an edge-on spiral galaxy about 30 to 50 million 
 
 🔭 Scope: Paralux 114/900
 
+🎯 Guiding: ZWO ASI 120mm mini monochrome + SVBONY SV106 guidescope
+
 ⚙️ Mount: Celestrong cg-5 goto
 
 ⏱ Exposure: 180s x 30

@@ -31,6 +31,8 @@ Here is also another processing of m27 with a different color balance:
 
 🔭 Scope: Quattro 150p
 
+🎯 Guiding: ZWO ASI 120mm mini monochrome + SVBONY SV106 guidescope
+
 ⚙️ Mount: Celestrong cg-5 goto
 
 ⏱ Exposure: 180s x 50

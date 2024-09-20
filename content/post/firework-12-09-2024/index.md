@@ -33,6 +33,8 @@ He managed to get way more data and a better processing than me, I love the purp
 
 🔭 Scope: Quattro 150p
 
+🎯 Guiding: ZWO ASI 120mm mini monochrome + SVBONY SV106 guidescope
+
 ⚙️ Mount: Celestrong cg-5 goto
 
 🎨 Filter: UV / IR cut filter
