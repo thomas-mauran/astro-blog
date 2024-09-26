@@ -7,8 +7,6 @@ categories:
     - Astrophotography
     - DIY
 tags:
-    - Galaxy
-    - Nebulae
     - Rig
 ---
 
