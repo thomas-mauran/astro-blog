@@ -1,7 +1,7 @@
 ---
 title: Helix nebula
-description: First shot at the eye of god
-date: 2024-09-29 00:20:30+0000
+description: First shot at the eye of god 3h30 of exposure
+date: 2024-10-03 00:20:30+0000
 image: final.png
 categories:
     - Astrophotography

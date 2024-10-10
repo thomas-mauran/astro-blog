@@ -1,15 +1,15 @@
 ---
-title: West vein nebula
-description: West vein nebula picture
+title: West veil nebula
+description: West veil nebula picture, 4 hours of exposure
 date: 2024-09-29 00:20:30+0000
-image: vein.png
+image: veil.png
 categories:
     - Astrophotography
 tags:
     - Nebulae
 ---
 
-![West vein nebula](vein.png)
+![West veil nebula](veil.png)
 
 # Informations
 
