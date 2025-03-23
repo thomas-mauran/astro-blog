@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>DIY on Astro blog</title><link>https://astro.thomas-mauran.com/categories/diy/</link><description>Recent content in DIY on Astro blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 02 Feb 2025 00:23:30 +0000</lastBuildDate><atom:link href="https://astro.thomas-mauran.com/categories/diy/index.xml" rel="self" type="application/rss+xml"/><item><title>Widefield setup</title><link>https://astro.thomas-mauran.com/p/widefield-setup/</link><pubDate>Sun, 02 Feb 2025 00:23:30 +0000</pubDate><guid>https://astro.thomas-mauran.com/p/widefield-setup/</guid><description>&lt;img src="https://astro.thomas-mauran.com/p/widefield-setup/scope.jpg" alt="Featured image of post Widefield setup" />&lt;p>&lt;img src="https://astro.thomas-mauran.com/p/widefield-setup/setup.png"
+width="600"
+height="800"
+loading="lazy"
+alt="setup"
+class="gallery-image"
+data-flex-grow="75"
+data-flex-basis="180px"
+>&lt;/p>
+&lt;h1 id="new-gear">New gear
+&lt;/h1>&lt;p>I recently acquired a simple new gear to take widefield exposure, as my dad is a great fan of photography we always have had a lot of photo lenses at home, I already tried to take some widefield shots with them such as the &lt;a class="link" href="https://astro.thomas-mauran.com/p/andromeda-galaxy/" target="_blank" rel="noopener"
+>Andromeda&lt;/a> galaxy but the setup was kind of complicated and not relyable with N.I.N.A. for example.&lt;/p>
+&lt;p>I found online that you could plug ZWO cameras directly to Nikon lenses using a simple adapter. I already had a Nikon 70-200 f2.8 lens at home so I decided to give it a try. Turns out it&amp;rsquo;s a perfect fit working very well !&lt;/p>
+&lt;p>I also bought a small guiding scope, the SVBONY SV165, which is very cheap but does the job very well. I mounted it on my ZWO ASI 120mm mini monochrome camera and it&amp;rsquo;s working very well !&lt;/p>
+&lt;p>&lt;img src="https://astro.thomas-mauran.com/p/widefield-setup/scope.jpg"
+width="4032"
+height="3024"
+loading="lazy"
+alt="Lense mounted on the zwo with the guiding scope"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;p>With this new gear I am able to see a way greater portiong of the night sky and capture bigger objects such as the Orion nebula or the Rosette nebula and many more !&lt;/p></description></item><item><title>New rig</title><link>https://astro.thomas-mauran.com/p/new-rig/</link><pubDate>Sun, 15 Sep 2024 00:09:30 +0000</pubDate><guid>https://astro.thomas-mauran.com/p/new-rig/</guid><description>&lt;img src="https://astro.thomas-mauran.com/p/new-rig/cover.png" alt="Featured image of post New rig" />&lt;h2 id="upgrade-of-the-rig">Upgrade of the rig
+&lt;/h2>&lt;p>I recently invested in a new telescope and dedicated cooled astro camera. This new setup is a game changer for me.&lt;/p>
+&lt;h2 id="new-telescope">New telescope
+&lt;/h2>&lt;p>I live in a bortle 7 zone and my past telescope had a focal ratio of f/8 which is very slow. With a mirror of only 114 mm for a focal length of 900mm. This was not ideal and I had to spend tremendous amount of time to get a decent barely usable picture.&lt;/p>
+&lt;p>I decided to switch for the skywatcher quattro 150p which has a focal ratio of f/4. This is a huge upgrade for me. The mirror is 150mm for a focal length of 600mm. This means that I can get a lot more light in the same amount of time. I choose this 150/600 instead of a 150/750 because the quattro was providing a 0.85x coma corrector reducing my focal ratio to f/3.4. Another cool thing is that the quattro is less heavy than the 150/750 which is a good thing for my back and for the guiding system.&lt;/p>
+&lt;p>This scope upgrade makes the new scope 5 times faster than the old one. This means that I can get the same amount of light in 5 times less time.&lt;/p>
+&lt;p>I didn&amp;rsquo;t want to switch from a newtonian to a refractor because I wanted to take pictures of small objects like galaxies and wanted to have a small focal ratio. The quattro was the perfect choice for me.&lt;/p>
+&lt;p>&lt;img src="https://astro.thomas-mauran.com/p/new-rig/setup.png"
+width="600"
+height="800"
+loading="lazy"
+alt="quattro 150p"
+class="gallery-image"
+data-flex-grow="75"
+data-flex-basis="180px"
+>&lt;/p>
+&lt;h2 id="new-camera">New camera
+&lt;/h2>&lt;p>I also invested in a new camera. I choose the ZWO ASI 585mc pro. This is a cooled camera with a 2.9um pixel size. This camera is a lot more sensitive than my old camera. The cooling system allows me to take pictures at -15°C which is a huge advantage for long exposure pictures. This new camera is also way easier to manipulate to do the 3 star polar alignment and take picture sessions.&lt;/p>
+&lt;p>&lt;img src="https://astro.thomas-mauran.com/p/new-rig/zwo-stats.webp"
+width="1200"
+height="500"
+loading="lazy"
+alt="Camera statistics"
+class="gallery-image"
+data-flex-grow="240"
+data-flex-basis="576px"
+>&lt;/p>
+&lt;p>I hesitated between the 585mc pro and the 533mc pro which is an older model, the statisitcs looked worse but the field of view of the 533 is wider which is sometimes better. I am very happy with the field of view of the 585mc pro allowing me to shoot narrow objects with a good framing&lt;/p>
+&lt;h2 id="using-nina-instead-of-ekos">Using N.I.N.A instead of ekos
+&lt;/h2>&lt;p>I switched from NINA to ekos and now use a regular laptop instead of my raspberry pi which I have to admit is a lot more stable. I use TeamViewer to control the laptop from my phone which is very convenient. I also use the NINA scheduler which is very useful to plan my nights.&lt;/p>
+&lt;p>One of the next step is to be able to fully automate the session including the meridian flip which I now have to do manually, making me loose time.&lt;/p>
+&lt;h2 id="filters">Filters
+&lt;/h2>&lt;p>Since I now have a dedicated astro camera it is way easier for me to use filters now. I invested in a regular UV/IR cut filter for broadband targets and in the SVBony 220 dual narrowband filter for narrowband targets. This filter was naybe one of the biggest chock for me. I didn&amp;rsquo;t thought it would make such a big difference but the result is just mind blowing.&lt;/p>
+&lt;p>Here is a comparison of the same picture with and without the filter:&lt;/p>
+&lt;p>&lt;img src="https://astro.thomas-mauran.com/p/new-rig/crescent.jpg"
+width="1086"
+height="621"
+loading="lazy"
+alt="3 hours without filters"
+class="gallery-image"
+data-flex-grow="174"
+data-flex-basis="419px"
+> &lt;img src="https://astro.thomas-mauran.com/p/new-rig/crescent-new.png"
+width="3626"
+height="2048"
+loading="lazy"
+alt="3 hours with the filter"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="424px"
+>&lt;/p>
+&lt;p>The level of details on the same target with the same exposure time is just amazing. I am really looking forward to shoot other nebulas with this filter.&lt;/p>
+&lt;h2 id="conclusion">Conclusion
+&lt;/h2>&lt;p>This new rig is a massive game changer. It is now so much pleasant to take pictures and the results are way better for a minimal amount of time. Overall looking forward to shoot more objects when clear nights will come back.&lt;/p></description></item><item><title>Guiding scope upgrade</title><link>https://astro.thomas-mauran.com/p/guiding-scope-upgrade/</link><pubDate>Tue, 21 May 2024 00:09:30 +0000</pubDate><guid>https://astro.thomas-mauran.com/p/guiding-scope-upgrade/</guid><description>&lt;img src="https://astro.thomas-mauran.com/p/guiding-scope-upgrade/scope+camera.jpeg" alt="Featured image of post Guiding scope upgrade" />&lt;h2 id="description">Description
+&lt;/h2>&lt;p>When doing astrophotography one main thing to consider is the signal to noise ratio. The more light you can capture the better the image will be. To achieve this, you need to have long exposure times allowing you to reduce the ISO and get a cleaner image with less noise in the end. The problem is that the Earth rotates, and the stars move in the sky. This means that if you want to have long exposure times you need to track the stars.&lt;/p>
+&lt;p>My current goto mount allows me to reach up to 30 seconds of exposure time without guiding. This is good for some objects, but for deep sky objects, I need to have longer exposure times to really reduce the noise. To achieve this I need to guide the mount. This means that I need to have a second smaller telescope that will track a star and send corrections to the mount to keep the star in the same position.&lt;/p>
+&lt;p>This method is called guiding and is essential for deep sky astrophotography. I recently upgraded rig to include a guide scope but my 114/900 behing quite an uncommon telescope for deepsky imaging I had to overcome some challenges to make it work.&lt;/p>
+&lt;h2 id="how-does-guiding-work-">How does guiding work ?
+&lt;/h2>&lt;p>As said previously guiding is the process of tracking a star and sending corrections to the mount to keep the star in the same position. This is done by taking short exposures of the star and comparing the position of the star in the frame to a reference position. If the star is moving, the guiding software will send corrections to the mount to keep the star in the same position.&lt;/p>
+&lt;p>To do so you have multiple options but the most common one is to use a guide scope coupled with a guide camera and a software called PHD2 (Push Here Dummy).&lt;/p>
+&lt;p>Before purshasing anything you need to consider multiple options with both advantages and drawbacks.&lt;/p>
+&lt;h3 id="what-guidescope-to-choose-">What guidescope to choose ?
+&lt;/h3>&lt;p>A common rule to choose an adapted guide scope is to have a focal length of 1/3 to 1/2 of the main telescope. This is to ensure that the guide scope will have a wider field of view than the main telescope. This is important because the guide scope needs to be able to see enough stars to track one.&lt;/p>
+&lt;p>In my case my telescope has a focal length of 900mm so I needed a guide scope with a focal length between 300mm and 450mm. I chose a 60/240 guide scope with good reviews, the SVBONY SV106.&lt;/p>
+&lt;p>&lt;img src="https://astro.thomas-mauran.com/p/guiding-scope-upgrade/scope&amp;#43;camera.jpeg"
+width="4032"
+height="3024"
+loading="lazy"
+alt="SVBONY SV106 (with the camera)"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;h3 id="what-guide-camera-to-choose-">What guide camera to choose ?
+&lt;/h3>&lt;p>The main astro camera brand is zwo, their product are used by a lot of astrophotographers and are known for their quality. I chose the ZWO ASI120MM Mini, a monochrome camera with a good sensitivity and a high frame rate.&lt;/p>
+&lt;p>You either can choose a monochrome camera or a color camera. The main difference is that a monochrome camera will be more sensitive and will allow you to take shorter exposures. This is important because the shorter the exposure the less the star will move in the frame and the more accurate the guiding will be. In my case I chose a monochrome camera because I wanted to have the best guiding possible.&lt;/p>
+&lt;p>&lt;img src="https://astro.thomas-mauran.com/p/guiding-scope-upgrade/camera.jpeg"
+width="4032"
+height="3024"
+loading="lazy"
+alt="ZWO ASI120MM Mini"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;h2 id="my-3d-printed-holder">My 3D printed holder
+&lt;/h2>&lt;p>As mentionned before my telescope is quite uncommon for deep sky imaging. His diameter of 140mm is uncommon meaning I often have to make custom parts to make it work. This time I had to make a custom holder for the guide scope. I managed to find a 3D model for a 8&amp;quot; newtonian telescope and I modified it to fit my telescope.&lt;/p>
+&lt;p>I printed the holder in PLA and glued a small cloth to the inside to avoid scratching the telescope. I ordered a dovetail mount to attach the guide scope to the holder.&lt;/p>
+&lt;p>The 3D printed holder turned out perfect but the holes were too small for the screws I found. To avoid printing the whole part again I used a drill to make the holes larger. I only had to screw the holder to the telescope and the guide scope to the holder.&lt;/p>
+&lt;p>&lt;img src="https://astro.thomas-mauran.com/p/guiding-scope-upgrade/3d-lay.jpeg"
+width="4032"
+height="3024"
+loading="lazy"
+alt="3D piece side"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+> &lt;img src="https://astro.thomas-mauran.com/p/guiding-scope-upgrade/3d-top.jpeg"
+width="4032"
+height="3024"
+loading="lazy"
+alt="3D printed top"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;p>After confirming everything was sturdy enough I attached the whole scope and camera to the holder. I then had to adjust the focus of the guide scope to get a sharp image of the stars.&lt;/p>
+&lt;p>&lt;img src="https://astro.thomas-mauran.com/p/guiding-scope-upgrade/guide&amp;#43;3d.jpeg"
+width="4032"
+height="3024"
+loading="lazy"
+alt="Guide scope attached"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;p>And here is what it looks like when everything is attached to the telescope.&lt;/p>
+&lt;p>&lt;img src="https://astro.thomas-mauran.com/p/guiding-scope-upgrade/mounted.jpeg"
+width="4032"
+height="3024"
+loading="lazy"
+alt="Attched to the scope"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;h2 id="phd2-setup">PHD2 setup
+&lt;/h2>&lt;p>The last step was to setup PHD2. I had to connect the camera to the raspberry pi and to the mount. When you first start PHD2 you need to make a dark library. This is done by taking multiple dark frames and saving them in a folder. This is used to subtract the noise from the guiding frames.&lt;/p>
+&lt;p>You can then start to find the focus of the guide scope. This is done by taking short exposures and adjusting the focus until the stars are sharp. This is very important because if the stars are not sharp the guiding will not be accurate.&lt;/p>
+&lt;p>I then had to calibrate the camera to make sure the guiding was accurate. This is done by taking short exposures of a star and comparing the position of the star in the frame to a reference position. The software will then send corrections to the mount to keep the star in the same position.&lt;/p>
+&lt;p>&lt;img src="https://astro.thomas-mauran.com/p/guiding-scope-upgrade/phd2.png"
+width="2880"
+height="1662"
+loading="lazy"
+alt="PHD2 guiding"
+class="gallery-image"
+data-flex-grow="173"
+data-flex-basis="415px"
+> &lt;img src="https://astro.thomas-mauran.com/p/guiding-scope-upgrade/ekos.png"
+width="2864"
+height="1640"
+loading="lazy"
+alt="Guiding of PHD in ekos"
+class="gallery-image"
+data-flex-grow="174"
+data-flex-basis="419px"
+>&lt;/p>
+&lt;h2 id="conclusion">Conclusion
+&lt;/h2>&lt;p>With the new guide scope I can now reach up to 300 seconds of exposure time. This is a huge improvement over the 30 seconds I could reach before. This means that I can now take much cleaner images with less noise (around 200 iso instead of 6400). I am very happy with the results and I can&amp;rsquo;t wait to take more images with the new setup.&lt;/p></description></item><item><title>3D printed bahtinov mask</title><link>https://astro.thomas-mauran.com/p/3d-printed-bahtinov-mask/</link><pubDate>Sat, 18 May 2024 00:09:30 +0000</pubDate><guid>https://astro.thomas-mauran.com/p/3d-printed-bahtinov-mask/</guid><description>&lt;img src="https://astro.thomas-mauran.com/p/3d-printed-bahtinov-mask/mask.jpeg" alt="Featured image of post 3D printed bahtinov mask" />&lt;h2 id="description">Description
+&lt;/h2>&lt;p>I recently improved my focusing technique by printing a Bahtinov mask. I used a 3D printer to print the mask, and it works great. I can now focus my telescope much more accurately than before. The mask is easy to use and provides a clear indication of when the telescope is in focus. I highly recommend using a Bahtinov mask for anyone who is serious about astrophotography.&lt;/p>
+&lt;h2 id="what-is-a-bahtinov-mask-">What is a Bahtinov mask ?
+&lt;/h2>&lt;p>&lt;img src="https://astro.thomas-mauran.com/p/3d-printed-bahtinov-mask/mask2.jpeg"
+width="4032"
+height="3024"
+loading="lazy"
+alt="Bahtinov mask"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;p>A Bahtinov mask is a focusing aid for astronomy in general, and astrophotography in particular. It consists of a disk with three sets of slits, each set at a different angle. The mask is placed over the front of the telescope, and the telescope is pointed at a bright star. The star&amp;rsquo;s light passes through the slits and creates diffraction spikes. When the telescope is out of focus, the spikes are not symmetrical. When the telescope is in focus, the spikes are symmetrical. The mask is named after its inventor, Russian amateur astrophotographer Pavel Bahtinov.&lt;/p>
+&lt;p>&lt;img src="https://astro.thomas-mauran.com/p/3d-printed-bahtinov-mask/example.jpg"
+width="640"
+height="375"
+loading="lazy"
+alt="Bahtinov mask"
+class="gallery-image"
+data-flex-grow="170"
+data-flex-basis="409px"
+>&lt;/p>
+&lt;p>Here is an example of a Bahtinov mask in action. The spikes are symmetrical, indicating that the telescope is in focus.&lt;/p>
+&lt;p>&lt;img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Simulation_of_a_bahtinov_mask_diffraction_pattern_when_focusing.gif#center"
+loading="lazy"
+alt="Gif of the focusing using a mask"
+>&lt;/p>
+&lt;p>In this video you can see how the diffraction spikes move when focusing the telescope. The goal is to get the middle spike in the middle of the other two spikes.&lt;/p>
+&lt;h2 id="sources">Sources
+&lt;/h2>&lt;p>&lt;a class="link" href="https://en.wikipedia.org/wiki/Bahtinov_mask" target="_blank" rel="noopener"
+>https://en.wikipedia.org/wiki/Bahtinov_mask&lt;/a>&lt;/p></description></item><item><title>Current rig</title><link>https://astro.thomas-mauran.com/p/current-rig/</link><pubDate>Mon, 22 Apr 2024 00:09:30 +0000</pubDate><guid>https://astro.thomas-mauran.com/p/current-rig/</guid><description>&lt;img src="https://astro.thomas-mauran.com/p/current-rig/scope.JPG" alt="Featured image of post Current rig" />&lt;p>Here is my current setup, I have been trying to limit the budget as much as possible. This low budget allows me to learn a lot more and do some DIY customizations.&lt;/p>
+&lt;h2 id="original-mount">Original mount
+&lt;/h2>&lt;p>The base scope is an old Paralux 114/900 scope, it is a Newtonian reflector with a 114mm aperture and 900mm focal length. The original mount was a wooden equatorial mount with a clock drive. This setup is 40 years old since it was my father&amp;rsquo;s scope when he was a kid.&lt;/p>
+&lt;p>&lt;img src="https://astro.thomas-mauran.com/p/current-rig/original.jpg"
+width="4032"
+height="3024"
+loading="lazy"
+alt="Here is a picture of the original setup"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;p>The main problem with this mount was the fact I couldn&amp;rsquo;t use a DSLR camera with it. The scope would not focus on the camera sensor. I started to take pictures using my phone and a phone adapter. The results were not great but it was a start.&lt;/p>
+&lt;p>&lt;img src="https://astro.thomas-mauran.com/p/current-rig/moon-first-try.jpg"
+width="1781"
+height="2374"
+loading="lazy"
+alt="Moon using an iphone"
+class="gallery-image"
+data-flex-grow="75"
+data-flex-basis="180px"
+> &lt;img src="https://astro.thomas-mauran.com/p/current-rig/orion-first-try.jpg"
+width="721"
+height="755"
+loading="lazy"
+alt="Orion using an iphone"
+class="gallery-image"
+data-flex-grow="95"
+data-flex-basis="229px"
+>&lt;/p>
+&lt;h2 id="primary-mirror-upgrade">Primary mirror upgrade
+&lt;/h2>&lt;p>To achieve the focus with a DSLR camera I had to move the primary mirror up the tube. But first let&amp;rsquo;s see how a newtonian scope works.&lt;/p>
+&lt;p>&lt;img src="https://astro.thomas-mauran.com/p/current-rig/newtonian.jpg"
+width="1203"
+height="478"
+loading="lazy"
+alt="Schema of a newtonian telescope"
+class="gallery-image"
+data-flex-grow="251"
+data-flex-basis="604px"
+>&lt;/p>
+&lt;p>The principle is simple, the light enters the tube and is reflected by the primary mirror to the secondary mirror. The secondary mirror reflects the light to the eyepiece. The eyepiece is placed at the focal point of the primary mirror. The distance between the primary mirror and the eyepiece is the focal length of the scope.&lt;/p>
+&lt;p>This type of scope have been invented by Isaac Newton in 1668. The main advantage of this design is the fact that the light is reflected only once. This means that the light is not absorbed by the tube walls. This is why this type of scope is very good for deep sky objects.&lt;/p>
+&lt;p>Adding a DSLR to the setup means that the camera sensor has to be at the focal point of the primary mirror. Camera sensors are at the back of the camera body. This means that the primary mirror has to be moved up the tube to bring back the focus point on the camera sensor.&lt;/p>
+&lt;p>Another option was to use a Barlow lens to increase the focal length of the scope. This would have allowed me to use the camera without moving the primary mirror. But this would have increased the focal length of the scope to 1800mm. This would have made the scope less versatile and would have required a more precise tracking. It would also have lower the field of view of the camera and the light gathering power of the scope which is not ideal for deep sky objects.&lt;/p>
+&lt;p>To move the primary mirror I had to self design a custom piece using Blender. After a few iterations I came up with a design that would allow me to move the primary mirror up the tube by roughly 6 centimeters. This would allow me to focus on the camera sensor.&lt;/p>
+&lt;p>&lt;img src="https://astro.thomas-mauran.com/p/current-rig/3d-piece.jpg"
+width="4032"
+height="3024"
+loading="lazy"
+alt="3d piece fully printed"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+> &lt;img src="https://astro.thomas-mauran.com/p/current-rig/3d-piece-2.jpg"
+width="3419"
+height="3024"
+loading="lazy"
+alt="3d piece mounted on the scope bottom"
+class="gallery-image"
+data-flex-grow="113"
+data-flex-basis="271px"
+>&lt;/p>
+&lt;p>Using this upgrade I managed to capture the Orion nebulae with my DSLR camera. Here is the best image I managed to get after acquiring data on multiple nights.&lt;/p>
+&lt;p>&lt;img src="https://astro.thomas-mauran.com/p/current-rig/orion-2.PNG"
+width="3448"
+height="2803"
+loading="lazy"
+alt="Orion nebulae with the mirror upgrade"
+class="gallery-image"
+data-flex-grow="123"
+data-flex-basis="295px"
+>&lt;/p>
+&lt;p>the full post is available &lt;a class="link" href="https://astro.thomas-mauran.com/p/orion-nebulae-10-04-2024/" target="_blank" rel="noopener"
+>here&lt;/a>&lt;/p>
+&lt;h2 id="new-goto-mount">New Goto mount
+&lt;/h2>&lt;p>The next step was to upgrade the mount. The old mount was not very stable and the clock drive was not very precise. I tried multiple times to find Messier 51 but never managed to get it, living in a bortle 6-7 zone doesn&amp;rsquo;t help either.&lt;/p>
+&lt;p>I managed to get a second hand Celestron cg-5 goto mount- for 400 euros which is a great deal ! This mount is a lot more stable and precise. It also has a goto system that allows me to find objects in the sky. This is a game changer for me since I can now find objects in the sky without having to spend hours looking for them.&lt;/p>
+&lt;p>The goto systems works by aligning the mount with the sky. The mount has to be aligned with 3 stars. The mount then knows where it is pointing in the sky. The mount can then move to any object in the sky. This is very useful for deep sky objects since they are very hard to find.&lt;/p>
+&lt;p>&lt;img src="https://astro.thomas-mauran.com/p/current-rig/scope.JPG"
+width="3024"
+height="4032"
+loading="lazy"
+alt="Current rig"
+class="gallery-image"
+data-flex-grow="75"
+data-flex-basis="180px"
+>&lt;/p>
+&lt;p>I tried to shoot Messier 51 with this new cg5 and got this shot which is a pretty good start overall !&lt;/p>
+&lt;p>&lt;img src="https://astro.thomas-mauran.com/p/current-rig/m51.png"
+width="1141"
+height="806"
+loading="lazy"
+alt="Messier 51 - 1h exposition time"
+class="gallery-image"
+data-flex-grow="141"
+data-flex-basis="339px"
+>&lt;/p>
+&lt;p>the full post is available &lt;a class="link" href="https://astro.thomas-mauran.com/p/messier-51-24-04-2024/" target="_blank" rel="noopener"
+>here&lt;/a>&lt;/p>
+&lt;h2 id="next-steps">Next steps
+&lt;/h2>&lt;p>The next step is to get more experience with the mount and especially a betterpolar alignement. Right now star trails don&amp;rsquo;t let me go further than 15&amp;quot;, I will have to improve this to get longer exposures. I also plan to get a guiding scope in the future to get even longer exposures up to 300&amp;quot; which seems to be the sweet spot for deep sky objects. Guiding scopes are used to correct the mount tracking in real time by locking a star in the field. This is very useful for long exposures since the mount is not perfect and will drift over time.&lt;/p></description></item></channel></rss>
